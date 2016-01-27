@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">downloadmanager</string>
+    <string name="hello_world">Hello world!</string>
+
+        
+    <string name="dialog_allow_cellular_title">แจ้งเตือน</string>
+    <string name="dialog_allow_cellular_msg">WiFi ปิดอยู่คุณต้องการดาวน์โหลดผ่านอินเทอร์เน็ตมือถือหรือไม่</string>
+    <string name="dialog_allow_cellular_proceed">ดาวน์โหลดต่อ</string>
+    <string name="dialog_allow_cellular_wifi">ตั้งค่า WiFi</string>
+    
+	<string name="download_manager_disabled">Download manager ของคุณปิดอยู่ กรุณาเปิดเพื่อดาวน์โหลดตัวเสริมของเกม.</string>
+    <string name="download_manager_disabled_open">เปิด</string>
+</resources>
