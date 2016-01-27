@@ -67,8 +67,6 @@ public class OBBDownloadMgr implements IDownloadCallback {
 			if (!destination.exists())
 				destination.mkdirs();
 			
-			boolean statusk = destination.exists();
-			
 			OBBFILENAME = Helpers.getExpansionAPKFileName(mContext, true, Helpers.getVersionCode(mContext));
 			DOWNLOADURL = obbURL + OBBFILENAME;
 		} catch (Exception e) {
